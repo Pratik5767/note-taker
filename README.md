@@ -57,7 +57,7 @@ project-root/
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Pratik5767/note-taker.git
 cd <project-folder>
 ```
 
